@@ -1,0 +1,37 @@
+[
+  {
+    "id": 11,
+    "date": "June 07, 2020",
+    "totalSpend": 572.00,
+    "monies": [
+      {
+        "id": 1,
+        "amount": 500.00,
+        "category": "Income",
+        "subCategory": "Work",
+        "dateAdded": "June 05, 2020"
+      },
+      {
+        "id": 2,
+        "amount": 72.00,
+        "category": "Income",
+        "subCategory": "Venmo",
+        "dateAdded": "June 07, 2020"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "date": "June 21, 2020",
+    "totalSpend": 500.00,
+    "monies": [
+      {
+        "id": 1,
+        "amount": 500.00,
+        "category": "Income",
+        "subCategory": "Work",
+        "dateAdded": "June 05, 2020"
+      }
+    ]
+  }
+]
